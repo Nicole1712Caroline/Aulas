@@ -3,6 +3,6 @@ materialEscolar = ['Lápis', 'Estojo',
                    'Borracha', 'Garrafa']
 
 materialEscolar.remove('Bolsinha')
-materialEscolar.pop(3)
+#materialEscolar.pop(3)
 
 print(materialEscolar)
